@@ -1,0 +1,2 @@
+C:/Users/pedro/Desktop/TFG/Analizador/build/CMakeFiles/edit_cache.dir
+C:/Users/pedro/Desktop/TFG/Analizador/build/CMakeFiles/rebuild_cache.dir
