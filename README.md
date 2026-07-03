@@ -1,1 +1,1 @@
-# Sistema-para-la-monitorizaci-n-de-la-calidad-del-aire-en-entorno-dom-stico-basado-en-ESP32
+# Sistema para la monitorización de la calidad del aire en entorno doméstico basado en ESP32
